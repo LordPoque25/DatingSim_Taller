@@ -56,7 +56,7 @@ public class Spawner : MonoBehaviour
     private void SpawnerMethod()
     {
         System.Random random = new System.Random();
-        int randomSpawn = random.Next(0, 5);
+        int randomSpawn = random.Next(0, 15);
 
         System.Random random2 = new System.Random();
         float bubblePicker = random2.Next(0, 100);        
