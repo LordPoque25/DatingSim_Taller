@@ -17,6 +17,6 @@ Bugs:
 El contador de burbujas de affection se resetea una burbuja despues de lo debido.
 El contador de puntaje puede ser negativo durante una burbuja, una vez se toma otra que le reste, este se vuelve 0.
 
-link de descarga: https://drive.google.com/file/d/1lF61VLqLkyweeac57oaFomZC8R1ixCu7/view?usp=sharing
+link de descarga: https://drive.google.com/file/d/1jsFzwTVWb2sP4Khc6OP3zB09DiuPCyiS/view?usp=sharing
 
 Todos los sprites son de mi autoria.
